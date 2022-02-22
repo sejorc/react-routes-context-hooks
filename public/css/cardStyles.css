@@ -1,0 +1,21 @@
+/*here I pass the percentages since I cannot directly as an attribute by html */
+
+#serverMigration{
+    width: 20%
+}
+
+#salesTracking{
+    width: 40%
+}
+
+#customerDatabase{
+    width:60%
+}
+
+#payoutDetails{
+    width: 80%
+}
+
+#accountSetup{
+    width: 100%;
+}

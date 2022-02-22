@@ -1,0 +1,17 @@
+.modal-backdrop{
+    opacity: 0 !important;
+    filter: alpha(opacity=0) !important;
+    position: -1 !important;
+    top: -1 !important;
+    left: -1 !important;
+    z-index: -1 !important;
+    width: -1 !important;
+    height: -1 !important;
+    background-color: transparent !important
+    
+
+}
+.modal-backdrop.fade{
+    filter: alpha(opacity=0) !important;
+    opacity: 0 !important;
+}
